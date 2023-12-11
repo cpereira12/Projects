@@ -1,0 +1,9 @@
+.search-item-div {
+    width: 75%;
+    display: grid;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 700;
+    margin: auto;
+
+}
